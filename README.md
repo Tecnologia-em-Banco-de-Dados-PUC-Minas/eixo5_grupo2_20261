@@ -15,7 +15,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 * Sarah Vitoria Pini Guerrero
 
 ## Orientador
-* Nome completo do professor 1
+* Cristiano Geraldo Teixeira Silva
 
 # Documentação
 
