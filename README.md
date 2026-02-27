@@ -1,9 +1,9 @@
 # Eixo-5
 Arquitetura de Dados em Nuvem
 
-# TÍTULO DO PROJETO
-`CURSO`
-`ANO/SEMESTRE`
+# Detecção de Fraude em Cartões de Crédito
+`Tecnologia em Banco de Dados PUC Minas`
+`2026/Eixo 5`
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
