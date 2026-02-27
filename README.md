@@ -5,7 +5,9 @@ Arquitetura de Dados em Nuvem
 `Tecnologia em Banco de Dados PUC Minas`
 `2026/Eixo 5`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+A fraude com cartão de crédito é um dos grandes problemas do setor financeiro, gerando prejuizos expressivos para empresas e consumidores. Graças ao grande número de transações diárias, é importante que as empresas de cartão de crédito sejam capazes de reconhecer transações fraudulentas para que os clientes não sejam cobrados por itens que não compraram. Então faz-se necessário o uso da inteligência artificial para combater as fraudes financeiras.
+
+Neste projeto será construído um modelo de aprendizado de máquina capaz de classificar com precisão as transações como fraudulentas ou genuínas usando dados históricos de transações.
 
 ## Integrantes
 * Ellen da Motta Maia
