@@ -45,13 +45,8 @@ amplamente utilizado em estudos e competições de Machine Learning.
 <ul>
   <li>Transações realizadas por cartões europeus;</li>
   <li>Variáveis numéricas resultantes de transformação PCA (V1 a V28);</li>
-</ul>
-
-<h3>Aspecto Crítico: Desbalanceamento</h3>
-
-<ul>
-  <li>A proporção de fraudes é extremamente baixa (menos de 1%);</li>
-  <li>Trata-se de um típico problema de classificação desbalanceada.</li>
+  <li>Valores de cada transação;</li>
+  <li>Coluna informando se a transação é fraudulenta ou não;</li>
 </ul>
 
 <h2>Viabilidade e Justificativa da Escolha</h2>
@@ -63,7 +58,6 @@ amplamente utilizado em estudos e competições de Machine Learning.
   <li>Possui volume suficiente para treinar modelos de Machine Learning;</li>
   <li>Permite trabalhar técnicas importantes como:
     <ul>
-      <li>Tratamento de dados desbalanceados;</li>
       <li>Avaliação com métricas adequadas (Precision, Recall, F1-score);</li>
       <li>Modelos supervisionados de classificação.</li>
     </ul>
@@ -97,22 +91,14 @@ fraudulentas ou legítimas com alto desempenho, especialmente na detecção de f
     </ul>
   </li>
 
-  <li>Tratar o desbalanceamento:
+  <li>Treinar mais modelos de classificação:
     <ul>
-      <li>Avaliar técnicas como undersampling ou oversampling;</li>
-      <li>Comparar desempenho com e sem balanceamento.</li>
+      <li>KNN;</li>
+      <li>Outros modelos avaliados no notebook, que não sejam os já utilizados.</li>
     </ul>
   </li>
 
-  <li>Treinar modelos de classificação:
-    <ul>
-      <li>Logistic Regression;</li>
-      <li>Random Forest;</li>
-      <li>Outros modelos avaliados no notebook.</li>
-    </ul>
-  </li>
-
-  <li>Avaliar os modelos utilizando métricas adequadas:
+  <li>Avaliar e comparar os modelos utilizando métricas adequadas:
     <ul>
       <li>Recall (fundamental para fraudes);</li>
       <li>Precision;</li>
