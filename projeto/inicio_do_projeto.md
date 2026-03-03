@@ -45,13 +45,6 @@ amplamente utilizado em estudos e competições de Machine Learning.
 <ul>
   <li>Transações realizadas por cartões europeus;</li>
   <li>Variáveis numéricas resultantes de transformação PCA (V1 a V28);</li>
-  <li>Variáveis adicionais:
-    <ul>
-      <li><code>Time</code> – tempo da transação;</li>
-      <li><code>Amount</code> – valor da transação;</li>
-      <li><code>Class</code> – 0 = legítima, 1 = fraude.</li>
-    </ul>
-  </li>
 </ul>
 
 <h3>Aspecto Crítico: Desbalanceamento</h3>
