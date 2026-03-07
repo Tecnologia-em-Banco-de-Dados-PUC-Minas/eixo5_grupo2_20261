@@ -11,5 +11,5 @@ Além disso, foi criado um ambiente compartilhado no Google Drive para organiza�
 Esse espaço permite que os membros realizem alterações, adicionem arquivos e acompanhem o desenvolvimento do trabalho de forma colaborativa e em tempo real, garantindo maior organização e integração entre as etapas do projeto, especialmente considerando que o Google Colab também é uma ferramenta integrada ao ecossistema do Google.
 
 A pasta compartilhada do projeto e do colab pode ser acessada pelo seguinte link:
-https://drive.google.com/drive/folders/15nthrTQx20iGjW7Fw9j1AjOACpj-YSSC?usp=drive_link
-[Colab](https://colab.research.google.com/drive/13n7X8_qXYAenqq2860-V8Htqx8pwCQxf?usp=sharing)
+- [Drive google].(https://drive.google.com/drive/folders/15nthrTQx20iGjW7Fw9j1AjOACpj-YSSC?usp=drive_link)
+- [Colab](https://colab.research.google.com/drive/13n7X8_qXYAenqq2860-V8Htqx8pwCQxf?usp=sharing)
