@@ -13,3 +13,4 @@ Esse espaço permite que os membros realizem alterações, adicionem arquivos e 
 A pasta compartilhada do projeto e do colab pode ser acessada pelo seguinte link:
 - [Drive google](https://drive.google.com/drive/folders/15nthrTQx20iGjW7Fw9j1AjOACpj-YSSC?usp=drive_link)
 - [Colab](https://colab.research.google.com/drive/13n7X8_qXYAenqq2860-V8Htqx8pwCQxf?usp=sharing)
+- [Colab rascunho](https://colab.research.google.com/drive/1yqsoKp3JWjgp0kDZv-pEUhEvO3whYres#scrollTo=mL3s6eIcv5n6)
