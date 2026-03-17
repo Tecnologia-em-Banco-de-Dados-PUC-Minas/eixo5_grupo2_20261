@@ -25,7 +25,7 @@ Neste projeto será construído um modelo de aprendizado de máquina capaz de cl
 |  :----:   | ----------- |
 | ETAPA 1        |[Documentação de Contexto](projeto/inicio_do_projeto.md) |
 | ETAPA 2        |[Coleta de Dados](projeto/coleta_dados.md) |
-| ETAPA 3        |[Pré-processamento](projeto/pre_processamento.md) |
+| ETAPA 3        |[Pré-processamento](projeto/pra_processamento.md) |
 | ETAPA 4        |[Aprendizagem de Máquina](projeto/aprendizado_maquina_rev.md)|
 | ETAPA 5        |[Análise dos Resultados](projeto/analise_resultados.md) |
 | ETAPA 6        |[Otimização](projeto/Otimizacao.md) |
