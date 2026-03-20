@@ -10,8 +10,8 @@ Durante essa fase, são aplicadas técnicas como tratamento de valores ausentes,
 ## Ferramentas Utilizadas
 - **Bibliotecas de Manipulação de dados:** Responsável por carregar, limpar e transformar os dados. Numpy e Pandas
 - **Visualização de dados:** Usado para análise exploratória (EDA) antes do preprocessamento. Seaborn e Matplotlib
-- **Pré processamento de dados:** Transformações necessárias antes de treinar o modelo. sklearn.preprocessing e imblearn.over_sampling
-- **Divisão de dados:** Separação entre treino e teste. sklearn.model_selection
+- **Pré processamento de dados:** Transformações necessárias antes de treinar o modelo. StandardScaler e SMOTE
+- **Divisão de dados:** Separação entre treino e teste. train_test_split
 
 ## Importância no Contexto do Projeto
 O pré-processamento é uma etapa essencial do projeto, pois garante que os dados estejam em boas condições para serem analisados e utilizados nos modelos. Caso essa etapa não seja bem feita, os resultados podem sair distorcidos ou pouco confiáveis.
