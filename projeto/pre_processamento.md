@@ -23,3 +23,5 @@ Outro ponto relevante é o balanceamento das classes, principalmente quando há 
 A separação entre dados de treino e teste também é fundamental, pois permite avaliar o modelo de forma mais realista, simulando como ele se comportaria com dados novos.
 
 Por fim, os gráficos utilizados ao longo da etapa ajudam a entender melhor os dados, identificar padrões e apoiar as decisões tomadas durante o pré-processamento.
+
+**Link para o arquivo de pré-processamento**: [Pré-processamento](creditcard_pre_processamento.ipynb)
