@@ -1,11 +1,5 @@
 # Etapa 4 - APRENDIZAGEM DE MÁQUINA
 
-Nesta etapa, os dados previamente tratados serão utilizados na aplicação de algoritmos de aprendizagem de máquina, com foco na identificação de padrões e possíveis anomalias nas transações analisadas. Serão realizados experimentos com diferentes modelos, permitindo comparar seus desempenhos e selecionar a abordagem mais adequada ao problema proposto, considerando sua capacidade de gerar resultados consistentes e apoiar a análise do cenário.
-
-**Link para o arquivo de aprendizagem de máquina**: [Aprendizado de máquina](creditcard_aprendizagem_de_maquina.ipynb)
-
-# Etapa 4 - Aprendizado de Máquina
-
 ## Visão Geral
 
 Nesta etapa do projeto, foram realizados experimentos com algoritmos de aprendizado de máquina aplicados ao problema de **detecção de fraude em cartões de crédito**.
@@ -127,3 +121,5 @@ Dessa forma, a escolha do modelo depende do objetivo principal do sistema:
 - **Maior velocidade:** SVC
 
 No contexto deste projeto, em que a identificação correta de fraudes é um fator crítico, o **Random Forest** se destacou como o modelo com melhor desempenho geral.
+
+**Link para o arquivo de aprendizagem de máquina**: [Aprendizado de máquina](creditcard_aprendizagem_de_maquina.ipynb)
