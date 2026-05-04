@@ -42,7 +42,7 @@ A Decision Tree apresentou desempenho satisfatório e um tempo de predição bas
 
 ### Random Forest
 
-O **Random Forest** é um algoritmo baseado em várias árvores de decisão. Em vez de depender de uma única árvore, ele combina o resultado de diversas árvores para chegar a uma decisão final mais estável.
+O **Random Forest** é um algoritmo baseado em várias árvores de decisão. O modelo baseia-se na combinação de múltiplas árvores de decisão, o que contribui para maior robustez e redução da variância nas previsões.
 
 Esse método costuma reduzir problemas de overfitting e, em muitos casos, apresenta melhor capacidade preditiva.
 
@@ -72,7 +72,7 @@ Como o problema de fraude é um caso de classificação binária (fraude ou não
 
 #### Análise
 
-O SVC apresentou um bom equilíbrio entre desempenho e velocidade. Embora sua acurácia tenha sido menor que a do Random Forest, o tempo de treinamento e predição foi bem menor, o que pode ser vantajoso em aplicações que exigem respostas rápidas.
+O SVC apresentou um bom equilíbrio entre desempenho e velocidade. Embora sua acurácia tenha sido menor que a do Random Forest, o tempo de treinamento e predição foi significativamente menor, o que pode ser vantajoso em aplicações que exigem respostas rápidas.
 
 ---
 
@@ -90,7 +90,7 @@ O **KNN** classifica uma nova observação com base nos exemplos mais próximos 
 
 #### Análise
 
-O KNN apresentou ótima acurácia e treinamento extremamente rápido. No entanto, o tempo de predição foi muito alto, o que o torna pouco indicado para sistemas de detecção de fraude em tempo real.
+O KNN apresentou ótima acurácia e treinamento extremamente rápido. No entanto, o tempo de predição foi significativamente elevado, o que o torna pouco indicado para sistemas de detecção de fraude em tempo real.
 
 ---
 
