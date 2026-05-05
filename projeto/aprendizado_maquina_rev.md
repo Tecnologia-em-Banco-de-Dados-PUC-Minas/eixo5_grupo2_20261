@@ -118,7 +118,8 @@ Por outro lado, quando o foco é velocidade de processamento, o **SVC** se mostr
 Dessa forma, a escolha do modelo depende do objetivo principal do sistema:
 
 - **Maior precisão:** Random Forest
-- **Maior velocidade:** SVC
+- **Maior velocidade em treino:** KNN
+- **Maior velocidade em predição:** SVC
 
 No contexto deste projeto, em que a identificação correta de fraudes é um fator crítico, o **Random Forest** se destacou como o modelo com melhor desempenho geral.
 
